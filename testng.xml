@@ -5,9 +5,9 @@
  	<test name="com.testCases.WatchDemoTest">
 		<classes>
 	 		<class name="com.testCases.WatchDemoTest" />
-	<!-- 		<class name="com.testCases.SignInTest" />
+	 		<class name="com.testCases.SignInTest" />
 			<class name="com.testCases.CareerTest" /> 
-			<class name="com.testCases.ResidentPayTest" /> -->
+			<class name="com.testCases.ResidentPayTest" /> 
 		</classes>
 	</test>
 
